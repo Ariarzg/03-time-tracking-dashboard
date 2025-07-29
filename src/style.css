@@ -21,6 +21,12 @@
   --color-self-care: hsl(43, 84%, 65%);
 
   --text-titles: var(--text-lg);
+  --text-fluid-name: clamp(1.25rem, -0.5682rem + 9.0909vw, 1.5rem);
+  --text-fluid-last: clamp(0.75rem, 0.5947rem + 0.7767vw, 1rem);
+  --text-fluid-hours: clamp(1.5rem, -0.5rem + 10vw, 1.875rem);
+  --text-fluid-paragraph: clamp(0.875rem, -0.0341rem + 4.5455vw, 1rem);
 
   --font-rubik: 'Rubik';
+
+  --container-viewport-width: calc(var(--container-2xs) + 7vw);
 }
