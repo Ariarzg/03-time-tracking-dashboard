@@ -29,4 +29,6 @@
   --font-rubik: 'Rubik';
 
   --container-viewport-width: calc(var(--container-2xs) + 7vw);
+
+  --breakpoint-medium: 50rem;
 }
