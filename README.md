@@ -47,7 +47,7 @@ If you'd like to run this project locally:
 
 ```bash
 git clone https://github.com/Ariarzg/03-time-tracking-dashboard.git
-cd time-tracking-dashboard
+cd 03-time-tracking-dashboard
 npm install
 npm run dev
 ```
